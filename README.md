@@ -2,7 +2,7 @@
 
 Submitted by: **Fabian Roman**
 
-Web app description: **This web app queries the Open Library API (https://openlibrary.org/search.json) to search through 100 records of Lord of the Rings books to be displayed on the dashboard. The user can view what year each book is from, search for a specific book, and apply year filters such as books released before 2000 and after 2000.**
+Web app description: **This web app queries the Open Library API (https://openlibrary.org/search.json) to search through 100 records of Lord of the Rings books to be displayed on the dashboard. The user can view what year each book is from, search for a specific book, and apply year filters such as books released before 2000 and after 2000. Each page of displayed results can also be moved back and forth using the Prev and Next page buttons**
 
 Time spent: **2** hours spent in total
 
@@ -36,18 +36,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough](https://github.com/SwellEquation/LOTR-Book-Dashboard/blob/main/walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://www.freeconvert.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
