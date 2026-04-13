@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 ![Walkthrough](https://github.com/SwellEquation/LOTR-Book-Dashboard/blob/main/walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://www.freeconvert.com/convert/mp4-to-gif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
